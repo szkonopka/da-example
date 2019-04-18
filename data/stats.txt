@@ -1,0 +1,146 @@
+DC statistics
+id
+Public Identity     0.505017
+Secret Identity     0.493139
+Identity Unknown    0.001843
+Name: id, dtype: float64
+sex
+Male Characters           0.706395
+Female Characters         0.290504
+Genderless Characters     0.002954
+Transgender Characters    0.000148
+Name: sex, dtype: float64
+gsm
+Homosexual Characters    0.84375
+Bisexual Characters      0.15625
+Name: gsm, dtype: float64
+align
+Bad Characters        0.459889
+Good Characters       0.449881
+Neutral Characters    0.089754
+Reformed Criminals    0.000477
+Name: align, dtype: float64
+eye
+Blue Eyes             0.337209
+Brown Eyes            0.268972
+Black Eyes            0.126071
+Green Eyes            0.089045
+Red Eyes              0.063647
+White Eyes            0.035496
+Yellow Eyes           0.026316
+Photocellular Eyes    0.014688
+Grey Eyes             0.012240
+Hazel Eyes            0.007038
+Purple Eyes           0.004284
+Violet Eyes           0.003672
+Orange Eyes           0.003060
+Gold Eyes             0.002754
+Auburn Hair           0.002142
+Pink Eyes             0.001836
+Amber Eyes            0.001530
+Name: eye, dtype: float64
+hair
+Black Hair               0.340545
+Brown Hair               0.248377
+Blond Hair               0.160969
+Red Hair                 0.099740
+White Hair               0.074859
+Grey Hair                0.033968
+Green Hair               0.009087
+Blue Hair                0.008871
+Purple Hair              0.006923
+Strawberry Blond Hair    0.006058
+Orange Hair              0.004543
+Pink Hair                0.002380
+Gold Hair                0.001082
+Violet Hair              0.000865
+Silver Hair              0.000649
+Reddish Brown Hair       0.000649
+Platinum Blond Hair      0.000433
+Name: hair, dtype: float64
+alive
+Living Characters      0.754389
+Deceased Characters    0.245611
+Name: alive, dtype: float64
+Marvel statistics
+id
+Secret Identity                  0.497779
+Public Identity                  0.359194
+No Dual Identity                 0.141837
+Known to Authorities Identity    0.001190
+Name: id, dtype: float64
+sex
+Male Characters           0.749775
+Female Characters         0.247198
+Agender Characters        0.002899
+Genderfluid Characters    0.000129
+Name: sex, dtype: float64
+gsm
+Homosexual Characters     0.733333
+Bisexual Characters       0.211111
+Transgender Characters    0.022222
+Transvestites             0.011111
+Pansexual Characters      0.011111
+Genderfluid Characters    0.011111
+Name: gsm, dtype: float64
+align
+Bad Characters        0.495429
+Good Characters       0.341787
+Neutral Characters    0.162784
+Name: align, dtype: float64
+eye
+Blue Eyes          0.296868
+Brown Eyes         0.291118
+Green Eyes         0.092752
+Black Eyes         0.083976
+Red Eyes           0.076865
+White Eyes         0.060524
+Yellow Eyes        0.038735
+Grey Eyes          0.014374
+Hazel Eyes         0.011499
+Variable Eyes      0.007414
+Purple Eyes        0.004691
+Orange Eyes        0.003783
+One Eye            0.003177
+Pink Eyes          0.003177
+Gold Eyes          0.002118
+Silver Eyes        0.001816
+Violet Eyes        0.001664
+Amber Eyes         0.001513
+Multiple Eyes      0.001059
+No Eyes            0.001059
+Yellow Eyeballs    0.000908
+Black Eyeballs     0.000454
+Magenta Eyes       0.000303
+Compound Eyes      0.000151
+Name: eye, dtype: float64
+hair
+Black Hair               0.310023
+Brown Hair               0.193114
+Blond Hair               0.130614
+No Hair                  0.097094
+Bald                     0.069188
+White Hair               0.062252
+Red Hair                 0.051189
+Grey Hair                0.043841
+Green Hair               0.009660
+Auburn Hair              0.006440
+Blue Hair                0.004624
+Strawberry Blond Hair    0.003880
+Purple Hair              0.003880
+Orange Hair              0.003550
+Variable Hair            0.002642
+Pink Hair                0.002559
+Yellow Hair              0.001651
+Silver Hair              0.001321
+Gold Hair                0.000661
+Reddish Blond Hair       0.000495
+Light Brown Hair         0.000495
+Magenta Hair             0.000413
+Orange-brown Hair        0.000248
+Bronze Hair              0.000083
+Dyed Hair                0.000083
+Name: hair, dtype: float64
+alive
+Living Characters      0.770048
+Deceased Characters    0.229952

@@ -1,0 +1,165 @@
+DC heroes (before cleaning): 89648
+
+              page_id                             name                             urlslug               id           align        eye        hair              sex                    gsm              alive  appearances first appearance         year
+count     6896.000000                             6896                                6896             4883            6295       3268        4622             6771                     64               6893  6541.000000             6827  6827.000000
+unique            NaN                             6896                                6896                3               4         17          17                4                      2                  2          NaN              774          NaN
+top               NaN  Vincent Del Arrazio (New Earth)  \/wiki\/Jonah_McCarthy_(New_Earth)  Public Identity  Bad Characters  Blue Eyes  Black Hair  Male Characters  Homosexual Characters  Living Characters          NaN   2010, December          NaN
+freq              NaN                                1                                   1             2466            2895       1102        1574             4783                     54               5200          NaN               78          NaN
+mean    147441.209252                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN    23.625134              NaN  1989.766662
+std     108388.631149                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN    87.378509              NaN    16.824194
+min       1380.000000                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN     1.000000              NaN  1935.000000
+25%      44105.500000                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN     2.000000              NaN  1983.000000
+50%     141267.000000                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN     6.000000              NaN  1992.000000
+75%     213203.000000                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN    15.000000              NaN  2003.000000
+max     404010.000000                              NaN                                 NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN  3093.000000              NaN  2013.000000
+
+Marvel heroes (before cleaning): 212888
+
+              page_id                                      name                        urlslug               id           align        eye        hair              sex                    gsm              alive   appearances first appearance          year
+count    16376.000000                                     16376                          16376            12606           13564       6609       12112            15522                     90              16373  15280.000000            15561  15561.000000
+unique            NaN                                     16376                          16376                4               3         24          25                4                      6                  2           NaN              832           NaN
+top               NaN  Reed Richards (Doppelganger) (Earth-616)  \/Louis_St._Croix_(Earth-616)  Secret Identity  Bad Characters  Blue Eyes  Black Hair  Male Characters  Homosexual Characters  Living Characters           NaN           Jun-92           NaN
+freq              NaN                                         1                              1             6275            6720       1962        3755            11638                     66              12608           NaN               72           NaN
+mean    300232.082377                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN     17.033377              NaN   1984.951803
+std     253460.403399                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN     96.372959              NaN     19.663571
+min       1025.000000                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN      1.000000              NaN   1939.000000
+25%      28309.500000                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN      1.000000              NaN   1974.000000
+50%     282578.000000                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN      3.000000              NaN   1990.000000
+75%     509077.000000                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN      8.000000              NaN   2000.000000
+max     755278.000000                                       NaN                            NaN              NaN             NaN        NaN         NaN              NaN                    NaN                NaN   4043.000000              NaN   2013.000000
+
+DC statistics
+
+Public Identity     0.505017
+Secret Identity     0.493139
+Identity Unknown    0.001843
+
+Male Characters           0.706395
+Female Characters         0.290504
+Genderless Characters     0.002954
+Transgender Characters    0.000148
+
+Homosexual Characters    0.84375
+Bisexual Characters      0.15625
+
+Bad Characters        0.459889
+Good Characters       0.449881
+Neutral Characters    0.089754
+Reformed Criminals    0.000477
+
+Blue Eyes             0.337209
+Brown Eyes            0.268972
+Black Eyes            0.126071
+Green Eyes            0.089045
+Red Eyes              0.063647
+White Eyes            0.035496
+Yellow Eyes           0.026316
+Photocellular Eyes    0.014688
+Grey Eyes             0.012240
+Hazel Eyes            0.007038
+Purple Eyes           0.004284
+Violet Eyes           0.003672
+Orange Eyes           0.003060
+Gold Eyes             0.002754
+Auburn Hair           0.002142
+Pink Eyes             0.001836
+Amber Eyes            0.001530
+
+Black Hair               0.340545
+Brown Hair               0.248377
+Blond Hair               0.160969
+Red Hair                 0.099740
+White Hair               0.074859
+Grey Hair                0.033968
+Green Hair               0.009087
+Blue Hair                0.008871
+Purple Hair              0.006923
+Strawberry Blond Hair    0.006058
+Orange Hair              0.004543
+Pink Hair                0.002380
+Gold Hair                0.001082
+Violet Hair              0.000865
+Silver Hair              0.000649
+Reddish Brown Hair       0.000649
+Platinum Blond Hair      0.000433
+
+Living Characters      0.754389
+Deceased Characters    0.245611
+
+Marvel statistics
+
+Secret Identity                  0.497779
+Public Identity                  0.359194
+No Dual Identity                 0.141837
+Known to Authorities Identity    0.001190
+
+Male Characters           0.749775
+Female Characters         0.247198
+Agender Characters        0.002899
+Genderfluid Characters    0.000129
+
+Homosexual Characters     0.733333
+Bisexual Characters       0.211111
+Transgender Characters    0.022222
+Transvestites             0.011111
+Genderfluid Characters    0.011111
+Pansexual Characters      0.011111
+
+Bad Characters        0.495429
+Good Characters       0.341787
+Neutral Characters    0.162784
+
+Blue Eyes          0.296868
+Brown Eyes         0.291118
+Green Eyes         0.092752
+Black Eyes         0.083976
+Red Eyes           0.076865
+White Eyes         0.060524
+Yellow Eyes        0.038735
+Grey Eyes          0.014374
+Hazel Eyes         0.011499
+Variable Eyes      0.007414
+Purple Eyes        0.004691
+Orange Eyes        0.003783
+Pink Eyes          0.003177
+One Eye            0.003177
+Gold Eyes          0.002118
+Silver Eyes        0.001816
+Violet Eyes        0.001664
+Amber Eyes         0.001513
+Multiple Eyes      0.001059
+No Eyes            0.001059
+Yellow Eyeballs    0.000908
+Black Eyeballs     0.000454
+Magenta Eyes       0.000303
+Compound Eyes      0.000151
+
+Black Hair               0.310023
+Brown Hair               0.193114
+Blond Hair               0.130614
+No Hair                  0.097094
+Bald                     0.069188
+White Hair               0.062252
+Red Hair                 0.051189
+Grey Hair                0.043841
+Green Hair               0.009660
+Auburn Hair              0.006440
+Blue Hair                0.004624
+Strawberry Blond Hair    0.003880
+Purple Hair              0.003880
+Orange Hair              0.003550
+Variable Hair            0.002642
+Pink Hair                0.002559
+Yellow Hair              0.001651
+Silver Hair              0.001321
+Gold Hair                0.000661
+Light Brown Hair         0.000495
+Reddish Blond Hair       0.000495
+Magenta Hair             0.000413
+Orange-brown Hair        0.000248
+Bronze Hair              0.000083
+Dyed Hair                0.000083
+
+Living Characters      0.770048
+Deceased Characters    0.229952
+
